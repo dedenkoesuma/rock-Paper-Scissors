@@ -51,11 +51,13 @@ this app is a paper rock scissors game originating from china with a simple conc
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Express.js](https://expressjs.com/)
+- [Golang](https://golang.org/)
 
 ## :white_check_mark: Requirements ##
 
