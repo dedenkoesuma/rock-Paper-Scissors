@@ -6,13 +6,13 @@
   <!-- <a href="https://{{app_url}}.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Suwit-Java-Games</h1>
+<h1 align="center">rock-Paper-Scissors</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/dedenkoesuma/suwit-java-games?color=56BEB8">
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/dedenkoesuma/suwit-java-games?color=56BEB8">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/dedenkoesuma/suwit-java-games?color=56BEB8">
-  <img alt="License" src="https://img.shields.io/github/license/dedenkoesuma/suwit-java-games?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/dedenkoesuma/rock-Paper-Scissors?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/dedenkoesuma/rock-Paper-Scissors?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/dedenkoesuma/rock-Paper-Scissors?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/dedenkoesuma/rock-Paper-Scissors?color=56BEB8">
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{github}}/{{repository}}?color=56BEB8" /> -->
   <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{github}}/{{repository}}?color=56BEB8" /> -->
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{github}}/{{repository}}?color=56BEB8" /> -->
@@ -66,7 +66,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/dedenkoesuma/Instructor-Led-Apps
+$ git clone https://github.com/dedenkoesuma/rock-Paper-Scissors.git
 
 # Run the project
 open in your browser
