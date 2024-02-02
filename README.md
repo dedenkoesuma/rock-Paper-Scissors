@@ -40,8 +40,7 @@
 
 ## :dart: About ##
 this app is a paper rock scissors game originating from china with a simple concept 
-##translate
-aplikasi ini adalah sebuah game gunting batu kertas yang berasal dari cina dengan konsep sederhana 
+
 ## :sparkles: Features ##
 
 :heavy_check_mark: Attendance Management;\
